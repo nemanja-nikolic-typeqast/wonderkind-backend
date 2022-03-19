@@ -18,4 +18,4 @@ On root of the project there is Postman collection for api testing (Wonderkind.p
 
 ## VueJs app
 
-VueJs app can be found on link https://github.com/nemanja-nikolic-goldbear/wonderkind-frontend
+VueJs app can be found on link https://github.com/nemanja-nikolic-typeqast/wonderkind-frontend
